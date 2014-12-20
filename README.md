@@ -25,4 +25,8 @@ Course Project for Class 3 of the Data Scientist Package (Clean and Getting Data
 		"Activity" which is the label corresponding to what the subject was doing at the time of the measurement.
 		"Aver" which is a numeric mean of measurements grouped first by Subject then secondarily by Activity
 
-	 The processes used to fulfill the five steps of the assignment is contained in the R script file "run_analysis.R" 		(included in the in this directory).  To run the script in the R language the working directory should be set to and the script file contained in the same directory as the data such that the "test" and "train" are below the working directory.  The call to the "test" and "train" sub-directory are handled in the first step wherein the data is read. 
+	 The processes used to fulfill the five steps of the assignment is contained in the R script file
+	 "run_analysis.R" 		(included in the in this directory).  To run the script in the R language the
+	 working directory should be set to and the script file contained in the same directory as the data such that
+	 the "test" and "train" are below the working directory.  The call to the "test" and "train" sub-directory are
+	 handled in the first step wherein the data is read. 
